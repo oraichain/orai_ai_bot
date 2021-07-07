@@ -33,3 +33,33 @@ Click "add admin"
 Change premission then click "Done"
 
 ![Screenshot](images/example5.png "example")
+
+## Step 2: check group id
+
+Go to your group and chat
+
+    /check_group_id
+
+Orai_ai_bot will return an id of your group.
+
+You need remember your group id to start the AMA.
+
+## Step 3: Using
+
+### Start AMA
+
+    Command: /start_ama your_group_id ama_name
+
+    Example: /start_ama 123456 orai_with_airight
+
+### Stop AMA
+
+    Command: /stop_ama your_group_id ama_name
+
+    Example: /stop_ama 123456 orai_with_airight
+
+### Get unique question
+
+    Command: /get_question your_group_id ama_name
+
+    Example: /get_question 123456 orai_with_airight
