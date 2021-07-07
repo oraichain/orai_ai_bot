@@ -60,6 +60,14 @@ You need remember your group id to start the AMA.
 
 ### Get unique question
 
+If you want get unique only from current AMA
+
     Command: /get_question your_group_id ama_name
 
     Example: /get_question 123456 orai_with_airight
+
+If you want get unique from all AMA
+
+    Command: /get_question_all_db your_group_id ama_name
+
+    Example: /get_question_all_db 123456 orai_with_airight
