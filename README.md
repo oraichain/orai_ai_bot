@@ -4,7 +4,7 @@ Link: https://t.me/orai_AI_bot
 
 # Description
 
-To our surprise, we are glad to introduce "Orai AI bot", a helpful AI bot that will accompany with us during the AMA. This bot's functionality is to lend us a hand in filtering out unique questions, get rid of [duplicated] ones and so forth. Hope we all get on well with "Orai AI bot".
+We are glad to introduce "Orai AI bot", a helpful AI bot that will accompany with us during the AMA. This bot's functionality is to lend us a hand in filtering out unique questions, get rid of [duplicated] ones and so forth. Hope we all get on well with "Orai AI bot".
 
 # How to use
 
